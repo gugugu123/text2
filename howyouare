@@ -1,5 +1,5 @@
 package test;
-/*
+/**
  * 单词颠倒顺序输出
  * @author Administrator
  *
